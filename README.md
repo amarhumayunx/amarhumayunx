@@ -20,6 +20,7 @@ Here is some ideas to get you started.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/amarhumayun)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amarhumayun)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=netlify&logoColor=white)](https://amarhumayun.netlify.app)
 
 ---
 
