@@ -16,7 +16,6 @@ Here is some ideas to get you started.
 - 🔐 I focus on data privacy with AES-256 encryption and biometric authentication  
 - ☁️ Deploying scalable apps with Firebase & Google Cloud for real-time solutions  
 - 📊 I perform data visualization and model optimization for high-accuracy results  
-- 🌐 Portfolio: [amarhumayun.netlify.app](https://amarhumayun.netlify.app)  
 - 📧 Reach me: [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)  \
 - ⚡ Fun fact: 🤖 I build intelligent bots that talk smarter than my coffee machine.
 - 😃 Pronouns: He/Him
