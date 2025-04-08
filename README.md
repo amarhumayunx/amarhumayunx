@@ -5,14 +5,21 @@ Here is some ideas to get you started.
 
 ## 🧑‍💻 About Me:
 
-- 💻 Software Developer | AI, ML & Python Developer | Mobile App Developer  
+- 💻 Software Developer | AI, ML & Python Developer | Mobile App Developer
+- 🔭 I’m currently working on a Password Manager mobile app (SafeCrypt).
+- 👯 I’m looking to collaborate on AI/ML projects, Android & Flutter apps.
+- 🌱 I’m currently learning cloud deployment and advanced ML techniques.
+- 💬 Ask me about mobile development, AI chatbots, or machine learning models.
 - 🚀 I specialize in AI, Machine Learning, and Mobile App Development using Python, Kotlin, and Flutter  
 - 🧠 Passionate about continuous learning and sharing through technical roadmaps and freelance projects  
 - 📱 I develop native & cross-platform mobile apps and AI chatbots for personalized user experiences  
 - 🔐 I focus on data privacy with AES-256 encryption and biometric authentication  
 - ☁️ Deploying scalable apps with Firebase & Google Cloud for real-time solutions  
 - 📊 I perform data visualization and model optimization for high-accuracy results  
-- 📧 Reach me: [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)  
+- 🌐 Portfolio: [amarhumayun.netlify.app](https://amarhumayun.netlify.app)  
+- 📧 Reach me: [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)  \
+- ⚡ Fun fact: 🤖 I build intelligent bots that talk smarter than my coffee machine.
+- 😃 Pronouns: He/Him
 
 ---
 
