@@ -40,6 +40,10 @@ Here is some ideas to get you started.
 > A cross-platform password manager with AES-256 encryption, biometric auth, and password strength indicators.  
 **Tech:** Flutter, Dart, Firebase, Biometric Auth  
 
+### 🧰 Toolkit Utility App  
+> A powerful Flutter-based app for document handling, OCR, PDF generation, and cloud storage — all-in-one smart utility.  
+**Tech:** Flutter, Dart, Firebase, OCR, Image Processing  
+
 ### 🎓 Student Performance Prediction Model  
 > ML model predicting student performance with 80% accuracy using Random Forest and preprocessing.  
 **Tech:** Python, Scikit-learn, Pandas, Matplotlib  
@@ -47,6 +51,10 @@ Here is some ideas to get you started.
 ### ❤️ Heart Disease Prediction Model  
 > Achieved 98%+ accuracy using Logistic Regression and Random Forest with data visualization.  
 **Tech:** Python, Scikit-learn, Pandas, Matplotlib  
+
+### 📿 Surah Yaseen Companion – Surah Yaseen App  
+> A Flutter-based app offering ruku-by-ruku reading, audio recitation, bookmarking, and Tafsir highlights of Surah Yaseen. Built for a seamless Quranic learning experience.  
+**Tech:** Flutter, Dart, Firebase, Audio Playback, UI/UX Design  
 
 ---
 
