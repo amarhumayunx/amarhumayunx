@@ -1,60 +1,54 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Humayun Amar</h1>
-Here is some ideas to get you started.
+Here are some ideas to get you started.
 
 ---
 
 ## 🧑‍💻 About Me:
 
-- 💻 Software Developer | AI, ML & Python Developer | Mobile App Developer
-- 🔭 I’m currently working on a Password Manager mobile app (SafeCrypt).
-- 👯 I’m looking to collaborate on AI/ML projects, Android & Flutter apps.
-- 🌱 I’m currently learning cloud deployment and advanced ML techniques.
-- 💬 Ask me about mobile development, AI chatbots, or machine learning models.
-- 🚀 I specialize in AI, Machine Learning, and Mobile App Development using Python, Kotlin, and Flutter  
-- 🧠 Passionate about continuous learning and sharing through technical roadmaps and freelance projects  
-- 📱 I develop native & cross-platform mobile apps and AI chatbots for personalized user experiences  
-- 🔐 I focus on data privacy with AES-256 encryption and biometric authentication  
-- ☁️ Deploying scalable apps with Firebase & Google Cloud for real-time solutions  
-- 📊 I perform data visualization and model optimization for high-accuracy results  
-- 📧 Reach me: [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)  \
-- ⚡ Fun fact: 🤖 I build intelligent bots that talk smarter than my coffee machine.
+- 💻 Software Developer | Flutter App Developer | Mobile App Developer
+- 🔭 Currently building a cross-platform password manager (SafeCrypt) and all-in-one Toolkit app.
+- 👨‍💼 Previously interned as a Flutter Developer at Haachi Technologies, gaining hands-on experience in full app lifecycle.
+- 🌱 Actively learning advanced ML techniques and cloud deployment practices.
+- 💬 Ask me about Flutter, Firebase integration, AI chatbot development, or mobile optimization.
+- 🚀 I specialize in developing robust apps using Flutter, Kotlin, Dart, and Firebase.
+- 📱 I craft intelligent, intuitive cross-platform mobile apps with clean UI/UX and real-time performance.
+- 🔐 Skilled in implementing AES-256 encryption, biometric authentication, and secure cloud storage.
+- ☁️ Deploying scalable solutions with Google Cloud and Firebase.
+- 📧 Reach me at: [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)
 - 😃 Pronouns: He/Him
+- ⚡ Fun fact: 🤖 I build smart apps that respond faster than my coffee machine!
 
 ---
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/amarhumayun)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amarhumayun)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=netlify&logoColor=white)](https://amarhumayun.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarhumayun)
+[![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarhumayunx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://amarhumayun.vercel.app)
 
 ---
 
 ## 💼 Project Highlights:
 
 ### 📱 BalanceBite Mobile App  
-> A personalized nutrition and fitness app developed in Kotlin. Features AI chatbot support, meal planning, and exercise routines.  
-**Tech:** Kotlin, XML, Firebase, AI Chatbot  
+> A Kotlin-based Android app that offers personalized nutrition plans and exercise routines. Features an integrated AI chatbot for real-time assistance.  
+**Tech:** Kotlin, Android Studio, Firebase, AI Chatbot  
+[🔗 GitHub](https://github.com/amarhumayunx/BalanceBite)
 
-### 🔐 SafeCrypt Password Manager *(Under Development)*  
-> A cross-platform password manager with AES-256 encryption, biometric auth, and password strength indicators.  
+### 🔐 SafeCrypt Password Manager *(In Progress)*  
+> A cross-platform Flutter app offering AES-256 encryption, biometric login, and password strength indicators.  
 **Tech:** Flutter, Dart, Firebase, Biometric Auth  
+[🔗 GitHub](https://github.com/amarhumayunx/SafeCrypt)
 
-### 🧰 Toolkit Utility App  
-> A powerful Flutter-based app for document handling, OCR, PDF generation, and cloud storage — all-in-one smart utility.  
-**Tech:** Flutter, Dart, Firebase, OCR, Image Processing  
+### 📿 Surah Yaseen App  
+> A Flutter-based Quranic app with ruku-wise reading, audio recitation, bookmarking, and content organization.  
+**Tech:** Flutter, Firebase, Audio Playback  
+[🔗 GitHub](https://github.com/amarhumayunx/Surah-Yaseen)
 
-### 🎓 Student Performance Prediction Model  
-> ML model predicting student performance with 80% accuracy using Random Forest and preprocessing.  
-**Tech:** Python, Scikit-learn, Pandas, Matplotlib  
-
-### ❤️ Heart Disease Prediction Model  
-> Achieved 98%+ accuracy using Logistic Regression and Random Forest with data visualization.  
-**Tech:** Python, Scikit-learn, Pandas, Matplotlib  
-
-### 📿 Surah Yaseen Companion – Surah Yaseen App  
-> A Flutter-based app offering ruku-by-ruku reading, audio recitation, bookmarking, and Tafsir highlights of Surah Yaseen. Built for a seamless Quranic learning experience.  
-**Tech:** Flutter, Dart, Firebase, Audio Playback, UI/UX Design  
+### 🧰 Toolkit Utility App *(All-in-One)*  
+> Powerful Flutter utility app with OCR, PDF operations (split, merge, compress), and image-to-text recognition with a clean UI.  
+**Tech:** Flutter, OCR, Image Processing, Firebase  
+[🔗 GitHub](https://github.com/amarhumayunx/ToolKit-flutter)
 
 ---
 
@@ -68,7 +62,6 @@ Here is some ideas to get you started.
 ![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white)
 
 ### 🧠 AI/ML & Data Science:
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -77,8 +70,8 @@ Here is some ideas to get you started.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### 📱 Mobile Development:
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white)
 
@@ -90,14 +83,20 @@ Here is some ideas to get you started.
 ### ☁️ Cloud & Tools:
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
+## 🏆 Achievements:
+
+- 🏅 **Final Year Project – Graded A** at University of Central Punjab (BalanceBite App)
+
+---
+
 ## ⚡ Fun Fact:
 
-🌟 Always optimizing, always learning — I treat code like art and logic like music 🎵  
+🌟 Always optimizing, always learning — I treat code like art and logic like music 🎵
