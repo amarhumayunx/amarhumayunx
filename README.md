@@ -1,67 +1,67 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Humayun Amar</h1>
-Here are some ideas to get you started.
+# 👋 Hi there, I'm Muhammad Humayun Amar
 
 ---
 
-## 🧑‍💻 About Me:
+## 🧑‍💻 About Me  
 
-- 💻 Software Developer | Flutter App Developer | Mobile App Developer
-- 🔭 Currently building a cross-platform password manager (SafeCrypt) and all-in-one Toolkit app.
-- 👨‍💼 Previously interned as a Flutter Developer at Haachi Technologies, gaining hands-on experience in full app lifecycle.
-- 🌱 Actively learning advanced ML techniques and cloud deployment practices.
-- 💬 Ask me about Flutter, Firebase integration, AI chatbot development, or mobile optimization.
-- 🚀 I specialize in developing robust apps using Flutter, Kotlin, Dart, and Firebase.
-- 📱 I craft intelligent, intuitive cross-platform mobile apps with clean UI/UX and real-time performance.
-- 🔐 Skilled in implementing AES-256 encryption, biometric authentication, and secure cloud storage.
-- ☁️ Deploying scalable solutions with Google Cloud and Firebase.
-- 📧 Reach me at: [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)
-- 😃 Pronouns: He/Him
-- ⚡ Fun fact: 🤖 I build smart apps that respond faster than my coffee machine!
-
----
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarhumayun)
-[![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarhumayunx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://amarhumayun.vercel.app)
+- 💻 **Software Developer | Software Engineer | Full Stack Flutter App Developer | Mobile App Developer**  
+- 🔭 Currently building **SafeCrypt** – a secure cross-platform password manager with AES-256 encryption and biometric login.  
+- 👨‍💼 Currently working as **Flutter Developer at Zee Palm**, delivering high-quality, scalable, cross-platform apps.  
+- 👨‍💻 Previously worked at **Haachi Technologies** as a Flutter Developer, gaining full lifecycle app development experience in an agile environment.  
+- 🌱 Exploring **advanced ML techniques**, cloud deployment, and performance tuning for scalable mobile solutions.  
+- 💬 Ask me about **Flutter**, **Firebase integration**, **AI chatbots**, and **mobile app performance optimization**.  
+- 🚀 I craft **intelligent, secure, and performant apps** using Flutter, Kotlin, Dart, and Firebase.  
+- 🔐 Skilled in **AES-256 encryption**, **biometric authentication**, and **secure cloud storage**.  
+- ☁️ Experienced with **Google Cloud**, Firebase, and DevOps deployment pipelines.  
+- 📧 Reach me at: [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)  
+- 😃 Pronouns: **He/Him**  
+- ⚡ Fun fact: *I make apps that respond faster than my coffee machine!*  
 
 ---
 
-## 💼 Project Highlights:
+## 🌐 Connect with Me  
 
-### 📱 BalanceBite Mobile App  
-> A Kotlin-based Android app that offers personalized nutrition plans and exercise routines. Features an integrated AI chatbot for real-time assistance.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarhumayun)  
+[![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarhumayunx)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://amarhumayun.vercel.app)  
+
+---
+
+## 💼 Project Highlights  
+
+### 📱 **BalanceBite Mobile App** *(FYP)*  
+> Kotlin-based Android app offering personalized nutrition plans & exercise routines, with an integrated AI chatbot for real-time guidance.  
 **Tech:** Kotlin, Android Studio, Firebase, AI Chatbot  
 [🔗 GitHub](https://github.com/amarhumayunx/BalanceBite)
 
-### 🔐 SafeCrypt Password Manager *(In Progress)*  
-> A cross-platform Flutter app offering AES-256 encryption, biometric login, and password strength indicators.  
+### 🔐 **SafeCrypt Password Manager** *(In Progress)*  
+> Cross-platform Flutter app with AES-256 encryption, biometric authentication, and password strength indicators for ultimate security.  
 **Tech:** Flutter, Dart, Firebase, Biometric Auth  
 [🔗 GitHub](https://github.com/amarhumayunx/SafeCrypt)
 
-### 📿 Surah Yaseen App  
-> A Flutter-based Quranic app with ruku-wise reading, audio recitation, bookmarking, and content organization.  
+### 📿 **Surah Yaseen App**  
+> Flutter-based Quranic app with ruku-wise reading, audio recitation, bookmarking, and smooth navigation.  
 **Tech:** Flutter, Firebase, Audio Playback  
 [🔗 GitHub](https://github.com/amarhumayunx/Surah-Yaseen)
 
-### 🧰 Toolkit Utility App *(All-in-One)*  
-> Powerful Flutter utility app with OCR, PDF operations (split, merge, compress), and image-to-text recognition with a clean UI.  
+### 🧰 **Toolkit Utility App** *(All-in-One)*  
+> A document & utility powerhouse featuring OCR, image-to-text recognition, and PDF split/merge/compress/rearrange operations.  
 **Tech:** Flutter, OCR, Image Processing, Firebase  
 [🔗 GitHub](https://github.com/amarhumayunx/ToolKit-flutter)
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack  
 
-### 👨‍💻 Programming Languages:
+### 👨‍💻 Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white)
 
-### 🧠 AI/ML & Data Science:
+### 🧠 AI/ML & Data Science  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -69,18 +69,18 @@ Here are some ideas to get you started.
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### 📱 Mobile Development:
+### 📱 Mobile Development  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white)
 
-### 🔒 Security & Optimization:
+### 🔒 Security & Optimization  
 ![AES](https://img.shields.io/badge/AES--256-Secure?style=for-the-badge&logo=veracrypt&logoColor=white)
 ![Biometric Auth](https://img.shields.io/badge/Biometric-Authentication-blueviolet?style=for-the-badge)
 ![Performance Optimization](https://img.shields.io/badge/Performance--Tuning-FF6F00?style=for-the-badge)
 
-### ☁️ Cloud & Tools:
+### ☁️ Cloud & Tools  
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,12 +91,12 @@ Here are some ideas to get you started.
 
 ---
 
-## 🏆 Achievements:
+## 🏆 Achievements  
 
-- 🏅 **Final Year Project – Graded A** at University of Central Punjab (BalanceBite App)
+- 🏅 **Final Year Project (BalanceBite)** — Graded **A** at University of Central Punjab  
 
 ---
 
-## ⚡ Fun Fact:
+## ⚡ Fun Fact  
 
-🌟 Always optimizing, always learning — I treat code like art and logic like music 🎵
+🌟 Always optimizing, always learning — I treat code like art and logic like music 🎵  
