@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muhammad Humayun Amar  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&width=500&lines=Hi+I'm+Humayun+Amar;Flutter+%7C+AI+%7C+Security;Full+Stack+Mobile+Developer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&width=500&lines=Hi+I'm+Muhammad+Humayun+Amar;Flutter+%7C+AI+%7C+Security;Full+Stack+Mobile+Developer)](https://git.io/typing-svg)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amarhumayunx&style=for-the-badge&color=blue)
 
@@ -78,18 +78,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarhumayunx&theme=tokyonight)  
 ![trophy](https://github-profile-trophy.vercel.app/?username=amarhumayunx&theme=tokyonight&margin-w=15&margin-h=15)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarhumayunx&theme=tokyo-night)  
-
----
-
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/amarhumayunx/amarhumayunx/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🕶️ 3D Contribution Heatmap  
-
-![3D Profile](https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/matrix.svg)
 
 ---
 
