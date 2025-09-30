@@ -1,10 +1,12 @@
-# 👋 Hi there, I'm Muhammad Humayun Amar
+# 👋 Hi there, I'm Muhammad Humayun Amar  
+
+![Profile Views](https://komarev.com/ghpvc/?username=amarhumayunx&style=for-the-badge&color=blue)
 
 ---
 
 ## 🧑‍💻 About Me  
 
-- 💻 **Software Developer | Software Engineer | Full Stack Flutter App Developer | Mobile App Developer**  
+- 💻 **Full-Stack Flutter and Mobile App Developer | Android and iOS Expert | Software Developer & Engineer**  
 - 🔭 Currently building **SafeCrypt** – a secure cross-platform password manager with AES-256 encryption and biometric login.  
 - 👨‍💼 Currently working as **Flutter Developer at Zee Palm**, delivering high-quality, scalable, cross-platform apps.  
 - 👨‍💻 Previously worked at **Haachi Technologies** as a Flutter Developer, gaining full lifecycle app development experience in an agile environment.  
@@ -94,6 +96,22 @@
 ## 🏆 Achievements  
 
 - 🏅 **Final Year Project (BalanceBite)** — Graded **A** at University of Central Punjab  
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+![Humayun's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarhumayunx&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarhumayunx&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarhumayunx&theme=tokyonight)  
+![trophy](https://github-profile-trophy.vercel.app/?username=amarhumayunx&theme=tokyonight&margin-w=15&margin-h=15)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarhumayunx&theme=tokyo-night)  
+
+---
+
+## 💡 Quote of the Day  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
