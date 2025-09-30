@@ -1,10 +1,16 @@
 # 👋 Hi there, I'm Muhammad Humayun Amar  
 
+![Header](https://raw.githubusercontent.com/amarhumayunx/amarhumayunx/main/assets/header.png)  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&width=500&lines=Hi+I'm+Humayun+Amar;Flutter+%7C+AI+%7C+Security;Full+Stack+Mobile+Developer)](https://git.io/typing-svg)  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=amarhumayunx&style=for-the-badge&color=blue)
 
 ---
 
 ## 🧑‍💻 About Me  
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
 
 - 💻 **Full-Stack Flutter and Mobile App Developer | Android and iOS Expert | Software Developer & Engineer**  
 - 🔭 Currently building **SafeCrypt** – a secure cross-platform password manager with AES-256 encryption and biometric login.  
@@ -55,41 +61,9 @@
 
 ## 💻 Tech Stack  
 
-### 👨‍💻 Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white)
-
-### 🧠 AI/ML & Data Science  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=xml&logoColor=white)
-
-### 🔒 Security & Optimization  
-![AES](https://img.shields.io/badge/AES--256-Secure?style=for-the-badge&logo=veracrypt&logoColor=white)
-![Biometric Auth](https://img.shields.io/badge/Biometric-Authentication-blueviolet?style=for-the-badge)
-![Performance Optimization](https://img.shields.io/badge/Performance--Tuning-FF6F00?style=for-the-badge)
-
-### ☁️ Cloud & Tools  
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,python,cpp,cs,androidstudio,vscode,git,github,gcp,tensorflow,pytorch" />
+</p>
 
 ---
 
@@ -106,6 +80,18 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarhumayunx&theme=tokyonight)  
 ![trophy](https://github-profile-trophy.vercel.app/?username=amarhumayunx&theme=tokyonight&margin-w=15&margin-h=15)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amarhumayunx&theme=tokyo-night)  
+
+---
+
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/amarhumayunx/amarhumayunx/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🕶️ 3D Contribution Heatmap  
+
+![3D Profile](https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/matrix.svg)
 
 ---
 
