@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Muhammad Humayun Amar  
 
-![Header](https://raw.githubusercontent.com/amarhumayunx/amarhumayunx/main/assets/header.png)  
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&width=500&lines=Hi+I'm+Humayun+Amar;Flutter+%7C+AI+%7C+Security;Full+Stack+Mobile+Developer)](https://git.io/typing-svg)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amarhumayunx&style=for-the-badge&color=blue)
