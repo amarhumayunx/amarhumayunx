@@ -67,7 +67,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,python,cpp,cs,androidstudio,vscode,git,github,gcp,tensorflow,pytorch" /><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="FlutterFlow" title="FlutterFlow" />
 </p>
 
 ---
