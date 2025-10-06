@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muhammad Humayun Amar  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&width=700&lines=Hi+I'm+Muhammad+Humayun+Amar;Flutter+%7C+AI+%7C+Security;FullStack+Flutter+and+Mobile+App+Developer;Android+and+iOS+Expert;Software+Developer+%26+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&width=700&lines=Hi+I'm+Muhammad+Humayun+Amar;Flutter+%7C+AI+%7C+Security;Full+Stack+Flutter+and+Mobile+App+Developer;Android+and+iOS+Expert;Software+Developer+%26+Engineer)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amarhumayunx&style=for-the-badge&color=blue)
 
