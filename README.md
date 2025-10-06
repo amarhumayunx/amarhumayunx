@@ -65,11 +65,50 @@
 
 ## 💻 Tech Stack  
 
+---
+
+### 🧠 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,python,cpp,cs,androidstudio,vscode,git,github,gcp,tensorflow,pytorch" /><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,c,dart,kotlin,bash" />
 </p>
 
 ---
+
+### ⚙️ Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,tensorflow,pytorch,ai" />
+</p>
+
+---
+
+### ☁️ Databases & Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,supabase,gcp,vercel" />
+</p>
+
+---
+
+### 🧰 Tools & IDEs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,sublime,git,github,gitlab" />
+</p>
+
+---
+
+### 🎨 Design & Creative  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,blender,unreal,unity" />
+</p>
+
+---
+
+### 💬 Communication & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin,apple,linux,ubuntu" />
+</p>
+
+---
+
 
 ## 🏆 Achievements  
 
@@ -94,7 +133,7 @@
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://raw.githubusercontent.com/amarhumayunx/amarhumayunx/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 
 ---
 
