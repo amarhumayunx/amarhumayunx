@@ -14,7 +14,7 @@
 
 - 💻 **Full-Stack Flutter & Mobile App Developer**  
 - 🔭 Currently building **SafeCrypt** – a secure password manager with AES-256 & biometric login  
-- 👨‍💼 **Flutter Developer at Zee Palm** | Previously **Haachi Technologies**  
+- 👨‍💼 **Full Stack Flutter Developer at Fiverr.co** | **Previously Full Stack Flutter Developer at Zee Palm** | **Previously Full Stack Flutter Developer at Haachi Technologies**  
 - 🌱 Exploring **advanced ML**, **cloud scaling**, and **app performance tuning**  
 - 💬 Ask me about: **Flutter**, **Firebase**, **AI Chatbots**, **Security**, **Optimization**  
 - 🔐 Skilled in **AES-256 encryption**, **biometric authentication**, **cloud security**  
