@@ -1,17 +1,19 @@
-<!-- HEADER / INTRO -->
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=150&section=header&text=Muhammad%20Humayun%20Amar%20💻&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00C7B7;">Muhammad Humayun Amar</span></h1>
-
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=Flutter+%7C+AI+%7C+Security;Full+Stack+Flutter+%26+Mobile+App+Developer;Android+and+iOS+Expert;Software+Engineer+%7C+Innovator+%7C+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=Full+Stack+Flutter+%7C+AI+%7C+Security+Developer;Mobile+App+Engineer+for+Android+and+iOS;Innovator+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarhumayunx&style=for-the-badge&color=00C7B7" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/amarhumayunx?style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/amarhumayunx?style=for-the-badge&color=yellow" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=amarhumayunx&style=for-the-badge&color=00C7B7" />
+  <img src="https://img.shields.io/github/followers/amarhumayunx?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/amarhumayunx?style=for-the-badge&color=yellow" />
 </p>
 
 ---
@@ -23,13 +25,13 @@
 💡 *Creating AI-powered, secure, and high-performance mobile experiences!*  
 
 - 💻 **Full-Stack Flutter & Mobile App Developer**  
-- 🔭 Currently building **SafeCrypt** – secure password manager with AES-256 & biometrics  
-- 🧠 Exploring **ML**, **cloud scaling**, **AI chatbot architecture**, and **app performance tuning**  
-- 🔐 Skilled in **AES-256 encryption**, **biometric auth**, **cloud security**  
-- ☁️ Experienced with **Google Cloud**, **Firebase**, and **CI/CD pipelines**  
-- 💬 Ask me about: *Flutter, Firebase, AI, Security, Optimization*  
+- 🔭 Building **SafeCrypt** — a secure password manager with AES-256 & biometrics  
+- 🧠 Exploring **ML**, **app optimization**, and **AI chatbot frameworks**  
+- 🔐 Skilled in **AES-256 encryption**, **biometric authentication**, **Firebase security rules**  
+- ☁️ Experienced with **Firebase**, **Google Cloud**, **Supabase**, and **CI/CD**  
+- 💬 Ask me about **Flutter**, **AI**, **Firebase**, **Security**, **Optimization**  
 - 📧 [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)  
-- ⚡ *"I make apps that respond faster than my coffee machine!"*
+- ⚡ *I make apps that respond faster than my coffee machine!*  
 
 ---
 
@@ -46,35 +48,35 @@
 
 ## 💼 Featured Projects  
 
-### 🔥 **BalanceBite – Smart Nutrition & Fitness App (FYP)**  
-> 🥗 Personalized diet plans + AI chatbot + real-time progress tracking  
+### 🥗 **BalanceBite – Smart Nutrition & Fitness App (FYP)**  
+> Personalized diet plans, AI chatbot, and progress tracking.  
 **Tech:** Kotlin · Firebase · Dialogflow · Android Studio  
 [🔗 View on GitHub](https://github.com/amarhumayunx/BalanceBite)
 
 ---
 
 ### 🔐 **SafeCrypt – Password Manager** *(In Progress)*  
-> AES-256 Encryption | Biometrics | Password Strength Indicators  
+> AES-256 encryption · biometric login · password strength indicators  
 **Tech:** Flutter · Dart · Firebase · Biometric Auth  
 [🔗 View on GitHub](https://github.com/amarhumayunx/SafeCrypt)
 
 ---
 
 ### 📿 **Surah Yaseen App**  
-> Quranic reading app with audio, bookmarks, and ruku-wise organization  
+> Quranic reading app with ruku-wise view, audio, and bookmarks  
 **Tech:** Flutter · Firebase · Audio Playback  
 [🔗 View on GitHub](https://github.com/amarhumayunx/Surah-Yaseen)
 
 ---
 
 ### 🧰 **Toolkit Utility App**  
-> All-in-one Flutter tool: OCR, PDF merge/split, image-to-text  
+> OCR, PDF merge/split/compress, and image-to-text  
 **Tech:** Flutter · Firebase · OCR · Image Processing  
 [🔗 View on GitHub](https://github.com/amarhumayunx/ToolKit-flutter)
 
 ---
 
-## 💻 Tech Stack  
+## 🧠 Tech Stack  
 
 <table align="center">
 <tr>
@@ -106,7 +108,7 @@
 ## 🏆 Achievements  
 
 🏅 **Final Year Project (BalanceBite)** — Graded **A** at University of Central Punjab  
-💡 **Top Rated Freelancer** on Fiverr  
+💼 **Top Rated Freelancer** on Fiverr  
 🚀 **Completed 25+ Client Projects** (Flutter · Firebase · AI · Cloud)
 
 ---
@@ -150,6 +152,31 @@
 
 ---
 
+## 🧰 Toolbox  
+
+> Flutter · Kotlin · Firebase · Dialogflow · TensorFlow · Supabase · GitHub Actions · AES-256 Encryption
+
+---
+
+## 🔭 Currently Working On  
+
+- 🚧 SafeCrypt – AES-256 encrypted password manager  
+- 🤖 AI Chatbot system using Dialogflow  
+- 🏋️‍♂️ Enhancing BalanceBite AI Nutrition Engine  
+
+---
+
+## ☕ Support My Work  
+
+If you like what I build, you can buy me a coffee 💙  
+<p align="center">
+  <a href="https://buymeacoffee.com/amarhumayun">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
 ## ⚡ Fun Facts  
 
 🌟 I treat **code like art** and **logic like music 🎵**  
@@ -158,7 +185,6 @@
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=100&section=footer&text=Thanks+for+Visiting!+🚀&fontColor=fff&fontSize=20&animation=fadeIn" />
 </p>
