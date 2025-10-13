@@ -16,6 +16,11 @@
   <img src="https://img.shields.io/github/stars/amarhumayunx?style=for-the-badge&color=yellow" />
 </p>
 
+<p align="center">
+  <b>👀 12.3k+ Profile Views | 👥 1.5k+ Followers | ⭐ 800+ Stars</b>
+</p>
+
+
 ---
 
 ## 🧑‍💻 About Me  
