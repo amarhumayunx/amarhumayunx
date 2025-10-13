@@ -11,15 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarhumayunx&style=for-the-badge&color=00C7B7" />
-  <img src="https://img.shields.io/github/followers/amarhumayunx?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/amarhumayunx?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/badge/Profile%20Views-12.3k-00C7B7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-1.5k-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-800-yellow?style=for-the-badge&logo=github" />
 </p>
-
-<p align="center">
-  <b>👀 12.3k+ Profile Views | 👥 1.5k+ Followers | ⭐ 800+ Stars</b>
-</p>
-
 
 ---
 
