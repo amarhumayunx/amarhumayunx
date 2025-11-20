@@ -106,9 +106,8 @@
 
 ## 🏆 Achievements  
 
-🏅 **Final Year Project (BalanceBite)** — Graded **A** at University of Central Punjab  
-💼 **Top Rated Freelancer** on Fiverr  
-🚀 **Completed 25+ Client Projects** (Flutter · Firebase · AI · Cloud)
+🏅 **Final Year Project (BalanceBite)** — Graded **A** at University of Central Punjab
+🚀 **Completed 5+ Projects** (Flutter · Firebase · AI · Cloud)
 
 ---
 
@@ -153,15 +152,15 @@
 
 ## 🧰 Toolbox  
 
-> Flutter · Kotlin · Firebase · Dialogflow · TensorFlow · Supabase · GitHub Actions · AES-256 Encryption
+> Flutter · Kotlin · Firebase · TensorFlow · Supabase · GitHub Actions · GetX
 
 ---
 
 ## 🔭 Currently Working On  
 
-- 🚧 SafeCrypt – AES-256 encrypted password manager  
-- 🤖 AI Chatbot system using Dialogflow  
-- 🏋️‍♂️ Enhancing BalanceBite AI Nutrition Engine  
+- 🚧 Multiple Apps Development  
+- 🤖 Databases & APIs handling  
+- 🏋️‍♂️ Enhancing Flutter & FlutterFLow Components and APIs  
 
 ---
 
