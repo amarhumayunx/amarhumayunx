@@ -116,12 +116,8 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=amarhumayunx&show_icons=true&theme=tokyonight" height="160" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarhumayunx&theme=tokyonight" height="160" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarhumayunx&layout=compact&theme=tokyonight" height="140" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=amarhumayunx&theme=tokyonight&margin-w=15&margin-h=15" />
 
 </div>
 
