@@ -106,7 +106,7 @@
 
 ## 🏆 Achievements  
 
-🏅 **Final Year Project (BalanceBite)** — Graded **A** at University of Central Punjab
+🏅 **Final Year Project (BalanceBite)** — Graded **A** at University of Central Punjab  
 🚀 **Completed 5+ Projects** (Flutter · Firebase · AI · Cloud)
 
 ---
