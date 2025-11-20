@@ -150,7 +150,7 @@
 
 ## 🧰 Toolbox  
 
-> Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C++ · TensorFlow · PyTorch · RESTful APIs · WebSocket APIs   · Hive · GitHub Actions · GetX · Google Cloud · Android Studio · VS Code
+> Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C++ · TensorFlow · PyTorch · RESTful APIs · WebSocket APIs   · Hive · GitHub Actions · GetX · Google Cloud · Android Studio · VS Code · Xcode · SwiftUI · Swift
 
 ---
 
