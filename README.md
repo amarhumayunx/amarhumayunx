@@ -24,12 +24,11 @@
 
 💡 *Creating AI-powered, secure, and high-performance mobile experiences!*  
 
-- 💻 **Full-Stack Flutter & Mobile App Developer**  
-- 🔭 Building **SafeCrypt** — a secure password manager with AES-256 & biometrics  
-- 🧠 Exploring **ML**, **app optimization**, and **AI chatbot frameworks**  
-- 🔐 Skilled in **AES-256 encryption**, **biometric authentication**, **Firebase security rules**  
+- 💻 **Full-Stack Flutter & Mobile App Developer**, **Software Developer & Engineer**
+- 🧠 Exploring **FlutterFLow**, **App Optimization**, **AI chatbot frameworks**  
+- 🔐 Skilled in **App Development**, **MVVM & MVC**, **Databases & APIs**, **Android & iOS App Development**  
 - ☁️ Experienced with **Firebase**, **Google Cloud**, **Supabase**, and **CI/CD**  
-- 💬 Ask me about **Flutter**, **AI**, **Firebase**, **Security**, **Optimization**  
+- 💬 Ask me about **Flutter**, **AI**, **Firebase**, **Security**, **App Optimization**  
 - 📧 [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)  
 - ⚡ *I make apps that respond faster than my coffee machine!*  
 
