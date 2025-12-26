@@ -128,6 +128,19 @@
 
 ---
 
+v## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amarhumayunx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amarhumayunx&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
+
+---
+
 ## 🐍 Contribution Snake  
 
 <p align="center">
