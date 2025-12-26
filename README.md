@@ -75,6 +75,13 @@
 
 ---
 
+### 💕 **Love Connect**  
+> Dating platform with smart matching, real-time chat, and profile customization  
+**Tech:** Flutter · Firebase · Real-time Database · Authentication  
+[🔗 View on GitHub](https://github.com/amarhumayunx/Love-Connect)
+
+---
+
 ## 🧠 Tech Stack  
 
 <table align="center">
