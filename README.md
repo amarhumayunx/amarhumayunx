@@ -114,9 +114,7 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarhumayunx&theme=darcula&hide_border=false&include_all_commits=true&count_private=true" height="170" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=amarhumayunx&theme=darcula&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarhumayunx&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
 </div>
 
 ---
@@ -125,14 +123,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarhumayunx&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarhumayunx&row=2&column=3&theme=flat&no-frame=true&margin-w=15" />
 </p>
 
 ---
