@@ -113,13 +113,9 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=amarhumayunx&show_icons=true&theme=tokyonight" height="160" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarhumayunx&layout=compact&theme=tokyonight" height="140" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=amarhumayunx&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=amarhumayunx&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amarhumayunx&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
