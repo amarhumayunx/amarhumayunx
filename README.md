@@ -132,9 +132,8 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarhumayunx&theme=flat&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amarhumayunx&row=2&column=3&theme=flat&no-frame=true&margin-w=15" />
 </p>
-
 
 ---
 
