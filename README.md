@@ -113,10 +113,11 @@
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=amarhumayunx&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amarhumayunx&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amarhumayunx&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarhumayunx&theme=darcula&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=amarhumayunx&theme=darcula&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarhumayunx&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
+</div>
 
 ---
 
@@ -128,16 +129,27 @@
 
 ---
 
-v## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amarhumayunx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amarhumayunx&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## ✍️ Random Dev Quote  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amarhumayunx&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repos  
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=amarhumayunx&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
