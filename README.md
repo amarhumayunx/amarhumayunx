@@ -153,7 +153,43 @@ Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C+
 # 📈 GitHub Stats
 
 <div align="center">
+
+  <!-- 1. Contribution Streak -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=amarhumayunx&theme=darcula&hide_border=false" height="170" />
+
+  <!-- 2. Main GitHub Stats -->
+  <img src="https://github-readme-stats.zcy.dev/api?username=amarhumayunx&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+  <!-- 3. Top Languages (Compact) -->
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=amarhumayunx&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+  <!-- 4. Top Contributed Repos -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=amarhumayunx&limit=5&theme=ocean_dark" height="170" />
+
+  <!-- 5. Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amarhumayunx" height="170" />
+
+  <!-- 6. Profile Details / Rank Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarhumayunx" height="170" />
+
+  <!-- 7. Repos per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amarhumayunx" height="170" />
+
+  <!-- 8. Repo Stars -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-star?username=amarhumayunx" height="170" />
+
+  <!-- 9. Animated Profile Stats (Gradient/Fire) -->
+  <img src="https://animated-profile-stats.vercel.app/api/card?username=amarhumayunx&type=fire" height="170" />
+
+  <!-- 10. Most Used Languages (Detailed) -->
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=amarhumayunx&theme=dark&layout=compact" height="170" />
+
+  <!-- 11. Project Repo Stats (Toolkit Example) -->
+  <img src="https://readmecodegen.com/api/card?github=amarhumayunx/ToolKit-flutter&type=repo-stats" height="170" />
+
+  <!-- 12. Project Repo Stats (Love Connect Example) -->
+  <img src="https://readmecodegen.com/api/card?github=amarhumayunx/Love-Connect&type=repo-stats" height="170" />
+
 </div>
 
 ---
