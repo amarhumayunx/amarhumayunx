@@ -3,7 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2c2c2c&height=200&section=header&text=Muhammad%20Humayun%20Amar&fontColor=00C7B7&fontSize=35&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h3 align="center">Full-Stack Flutter and Mobile App Developer • FlutterFlow • Android and iOS Expert • Software Developer & Engineer • ERP Support Associate • IT Engineer</h3>
+<h3 align="center">
+Full-Stack Flutter and Mobile App Developer • FlutterFlow • Android and iOS Expert • Software Developer & Engineer • ERP Support Associate • IT Engineer
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amarhumayunx&label=Profile%20Views&color=00C7B7&style=flat" />
@@ -13,9 +15,9 @@
 
 # 👨‍💻 Professional Summary
 
-Mobile Application Engineer specializing in scalable, secure, and performance-optimized Flutter systems.
+Full-Stack Flutter and Mobile Application Developer experienced in building scalable, secure, and performance-optimized applications for Android and iOS platforms.
 
-I design and engineer production-grade applications using clean architecture, optimized API communication, and cloud-backed mobile infrastructures.
+Focused on clean architecture, optimized API communication, real-time systems, and cloud-integrated mobile infrastructures.
 
 ---
 
@@ -24,8 +26,8 @@ I design and engineer production-grade applications using clean architecture, op
 - Clean Architecture (Presentation → Domain → Data)
 - MVVM / Controller-based State Management
 - Repository Pattern
-- Dependency Injection
 - Modular Feature Isolation
+- Dependency Injection principles
 - Offline-first support (where required)
 
 ### Data Flow
@@ -39,7 +41,7 @@ UI → ViewModel → UseCase → Repository → API / Firebase → Model → UI
 - Biometric authentication
 - Secure local storage
 - Token-based authentication
-- Encrypted data handling (where required)
+- Encrypted data handling
 
 ### Backend Layer
 - Firebase security rules
@@ -56,8 +58,8 @@ UI → ViewModel → UseCase → Repository → API / Firebase → Model → UI
 - Firebase query optimization
 - Local caching (Hive / Secure Storage)
 - Image compression before upload
-- Reduced APK size optimization
-- Smooth 60fps UI rendering
+- APK size optimization
+- Smooth 60fps rendering
 
 ---
 
@@ -65,8 +67,8 @@ UI → ViewModel → UseCase → Repository → API / Firebase → Model → UI
 
 - RESTful architecture
 - Structured error handling
-- Authentication-first API flows
-- Decoupled client-server structure
+- Authentication-first API design
+- Decoupled client-server communication
 - Realtime sync (WebSocket / Firebase streams)
 
 ---
@@ -74,7 +76,7 @@ UI → ViewModel → UseCase → Repository → API / Firebase → Model → UI
 # 💼 Featured Projects
 
 ## 🥗 BalanceBite – AI-Based Nutrition System
-Personalized nutrition planning with chatbot-based interaction and dynamic Firebase retrieval.  
+Personalized diet planning with chatbot interaction and dynamic Firebase retrieval.  
 **Tech:** Kotlin · Firebase · Dialogflow · Android  
 
 🔗 https://github.com/amarhumayunx/BalanceBite
@@ -82,7 +84,7 @@ Personalized nutrition planning with chatbot-based interaction and dynamic Fireb
 ---
 
 ## 📿 Surah Yaseen – Smart Quran Reading App
-Ruku-wise structure, audio sync, bookmark persistence, optimized rendering.  
+Ruku-wise view, audio sync, bookmarks, optimized UI rendering.  
 **Tech:** Flutter · Firebase · Audio Playback  
 
 🔗 https://github.com/amarhumayunx/Surah-Yaseen
@@ -90,7 +92,7 @@ Ruku-wise structure, audio sync, bookmark persistence, optimized rendering.
 ---
 
 ## 🧰 Toolkit Utility App
-OCR, PDF merge/split/compress, and image-to-text processing.  
+OCR, PDF merge/split/compress, and image-to-text features.  
 **Tech:** Flutter · Firebase · OCR · Image Processing  
 
 🔗 https://github.com/amarhumayunx/ToolKit-flutter
@@ -98,7 +100,7 @@ OCR, PDF merge/split/compress, and image-to-text processing.
 ---
 
 ## 💕 Love Connect
-Dating platform with smart matching, real-time chat, and profile customization.  
+Dating platform with smart matching, real-time chat, and authentication system.  
 **Tech:** Flutter · Firebase · Realtime Database · Authentication  
 
 🔗 https://github.com/amarhumayunx/Love-Connect
@@ -137,17 +139,6 @@ Dating platform with smart matching, real-time chat, and profile customization.
 # 🧰 Toolbox
 
 Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C++ · TensorFlow · PyTorch · RESTful APIs · WebSocket APIs · Hive · GitHub Actions · GetX · Google Cloud · Android Studio · VS Code · Xcode · SwiftUI · Swift
-
----
-
-# 📊 Engineering Standards
-
-- Null-safety enabled
-- Modular folder structure
-- Lint-enforced formatting
-- Semantic versioning
-- CI/CD workflows
-- Feature-based isolation
 
 ---
 
