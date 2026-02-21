@@ -157,19 +157,16 @@ Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C+
   <!-- 1. Contribution Streak -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=amarhumayunx&theme=darcula&hide_border=false" height="170" />
 
-  <!-- 2. Main GitHub Stats -->
-  <img src="https://github-readme-stats.zcy.dev/api?username=amarhumayunx&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-  <!-- 3. Top Languages (Compact) -->
+  <!-- 2. Top Languages (Compact) -->
   <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=amarhumayunx&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-  <!-- 4. Profile Details / Rank Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarhumayunx" height="150" />
+  <!-- 3. Profile Details / Rank Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarhumayunx" height="170" />
 
-  <!-- 5. Repos per Language -->
+  <!-- 4. Repos per Language -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amarhumayunx" height="170" />
 
-  <!-- 6. Most Used Languages (Detailed) -->
+  <!-- 5. Most Used Languages (Detailed) -->
   <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=amarhumayunx&theme=dark&layout=compact" height="170" />
 
 </div>
