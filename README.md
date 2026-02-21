@@ -163,16 +163,13 @@ Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C+
   <!-- 3. Top Languages (Compact) -->
   <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=amarhumayunx&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-  <!-- 4. Top Contributed Repos -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=amarhumayunx&limit=5&theme=ocean_dark" height="170" />
-
-  <!-- 6. Profile Details / Rank Card -->
+  <!-- 4. Profile Details / Rank Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarhumayunx" height="170" />
 
-  <!-- 7. Repos per Language -->
+  <!-- 5. Repos per Language -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amarhumayunx" height="170" />
 
-  <!-- 10. Most Used Languages (Detailed) -->
+  <!-- 6. Most Used Languages (Detailed) -->
   <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=amarhumayunx&theme=dark&layout=compact" height="170" />
 
 </div>
