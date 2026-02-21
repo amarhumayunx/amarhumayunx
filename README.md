@@ -1,204 +1,184 @@
-<!-- Banner -->
+<!-- Premium Dark Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=150&section=header&text=Muhammad%20Humayun%20Amar%20💻&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2c2c2c&height=200&section=header&text=Muhammad%20Humayun%20Amar&fontColor=00C7B7&fontSize=35&animation=twinkling&fontAlignY=35" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=Full+Stack+Flutter+Developer;Mobile+App+Engineer+for+Android+and+iOS;" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">Senior Flutter Engineer • Mobile Architect • AI-Driven Systems Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-12.3k-00C7B7?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Followers-1.5k-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-800-yellow?style=for-the-badge&logo=github" />
-</p>
-
----
-
-## 🧑‍💻 About Me  
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-💡 *Creating AI-powered, secure, and high-performance mobile experiences!*  
-
-- 💻 **Full-Stack Flutter & Mobile App Developer**, **Software Developer & Engineer**
-- 🧠 Exploring **FlutterFLow**, **App Optimization**, **AI chatbot frameworks**  
-- 🔐 Skilled in **App Development**, **MVVM & MVC**, **Databases & APIs**, **Android & iOS App Development**  
-- ☁️ Experienced with **Firebase**, **Google Cloud**, **Supabase**, and **CI/CD**  
-- 💬 Ask me about **Flutter**, **AI**, **Firebase**, **Security**, **App Optimization**  
-- 📧 [amarhumayun@outlook.com](mailto:amarhumayun@outlook.com)  
-- ⚡ *I make apps that respond faster than my coffee machine!*  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/amarhumayun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/amarhumayunx"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://amarhumayun.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:amarhumayun@outlook.com"><img src="https://img.shields.io/badge/Email-amarhumayun@outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 💼 Featured Projects  
-
-### 🥗 **BalanceBite – Smart Nutrition & Fitness App (FYP)**  
-> Personalized diet plans, AI chatbot, and progress tracking.  
-**Tech:** Kotlin · Firebase · Dialogflow · Android Studio  
-[🔗 View on GitHub](https://github.com/amarhumayunx/BalanceBite)
-
----
-
-### 🔐 **SafeCrypt – Password Manager** *(In Progress)*  
-> AES-256 encryption · biometric login · password strength indicators  
-**Tech:** Flutter · Dart · Firebase · Biometric Auth  
-[🔗 View on GitHub](https://github.com/amarhumayunx/SafeCrypt)
-
----
-
-### 📿 **Surah Yaseen App**  
-> Quranic reading app with ruku-wise view, audio, and bookmarks  
-**Tech:** Flutter · Firebase · Audio Playback  
-[🔗 View on GitHub](https://github.com/amarhumayunx/Surah-Yaseen)
-
----
-
-### 🧰 **Toolkit Utility App**  
-> OCR, PDF merge/split/compress, and image-to-text  
-**Tech:** Flutter · Firebase · OCR · Image Processing  
-[🔗 View on GitHub](https://github.com/amarhumayunx/ToolKit-flutter)
-
----
-
-### 💕 **Love Connect**  
-> Dating platform with smart matching, real-time chat, and profile customization  
-**Tech:** Flutter · Firebase · Real-time Database · Authentication  
-[🔗 View on GitHub](https://github.com/amarhumayunx/Love-Connect)
-
----
-
-## 🧠 Tech Stack  
-
-<table align="center">
-<tr>
-<td align="center"><b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=dart,python,cpp,cs,kotlin,bash" />
-</td>
-<td align="center"><b>Frameworks</b><br><br>
-<img src="https://skillicons.dev/icons?i=flutter,tensorflow,pytorch" />
-</td>
-<td align="center"><b>Databases & Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=firebase,mysql,supabase,gcp,vercel" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Tools & IDEs</b><br><br>
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,git,github,gitlab" />
-</td>
-<td align="center"><b>Design & Creative</b><br><br>
-<img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal" />
-</td>
-<td align="center"><b>Communication</b><br><br>
-<img src="https://skillicons.dev/icons?i=discord,gmail,linkedin,linux,apple,ubuntu" />
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements  
-
-🏅 **Final Year Project (BalanceBite)** — Graded **A** at University of Central Punjab  
-🚀 **Completed 5+ Projects** (Flutter · Firebase · AI · Cloud · APIs · Databases)
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=amarhumayunx&theme=darcula&hide_border=false" height="170" />
-</div>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarhumayunx&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## ✍️ Random Dev Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
-
----
-
-## 🔝 Top Contributed Repos  
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=amarhumayunx&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## 💡 Quote of the Day  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 🧰 Toolbox  
-
-> Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C++ · TensorFlow · PyTorch · RESTful APIs · WebSocket APIs   · Hive · GitHub Actions · GetX · Google Cloud · Android Studio · VS Code · Xcode · SwiftUI · Swift
-
----
-
-## 🔭 Currently Working On  
-
-- 🚧 Working on Multiple Apps to Develop and Deploy  
-- 🤖 Databases & APIs handling  
-- 🏋️‍♂️ Enhancing Flutter & FlutterFLow Components and APIs  
-
----
-
-## ☕ Support My Work  
-
-If you like what I build, you can buy me a coffee 💙  
-<p align="center">
-  <a href="https://buymeacoffee.com/amarhumayun">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  <a href="https://github.com/amarhumayunx">
+    <img src="https://komarev.com/ghpvc/?username=amarhumayunx&label=Profile%20Views&color=00C7B7&style=flat" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Facts  
+# 👨‍💻 Professional Summary
 
-🌟 I treat **code like art** and **logic like music 🎵**  
-🔍 Always optimizing, always learning  
-🤝 Let’s collaborate and build something amazing!
+Mobile Application Engineer specializing in scalable, secure, and performance-optimized Flutter systems.
+
+I build production-grade applications with clean architecture, structured API communication, and cloud-integrated backend systems. My focus is not just building apps — but engineering reliable mobile products.
+
+---
+
+# 🏗 Architecture & System Design
+
+### Architecture Principles
+- Clean Architecture (Presentation → Domain → Data)
+- MVVM / Controller-based State Management
+- Repository Pattern
+- Dependency Injection
+- Modular Feature Isolation
+
+### Data Flow
+UI → ViewModel → UseCase → Repository → API / Firebase → Model → UI
+
+### Engineering Mindset
+- Separation of Concerns
+- Testable Business Logic
+- Scalable Modules
+- Offline-first support (where required)
+- Event-driven updates
+
+---
+
+# 🔐 Security Engineering Strategy
+
+Security is treated as a foundational layer.
+
+### Mobile Security
+- AES encryption implementation
+- Biometric authentication
+- Secure local storage
+- Token-based session handling
+
+### Backend Security
+- Firebase security rules
+- Role-based access control
+- HTTPS communication
+- Input validation & sanitization
+
+---
+
+# ⚡ Performance Optimization Approach
+
+- Controlled widget rebuild management
+- Lazy loading & pagination
+- Firebase query optimization
+- Local caching (Hive / Secure Storage)
+- Compressed image uploads
+- Reduced APK size strategies
+- Smooth 60fps rendering where applicable
+
+---
+
+# 🌐 API & Backend Design Philosophy
+
+- RESTful architecture
+- Structured error handling
+- Authentication-first API flows
+- Decoupled client-server structure
+- Realtime sync (WebSocket / Firebase streams)
+
+---
+
+# 💼 Highlight Projects
+
+## 🥗 BalanceBite – AI-Based Nutrition System
+Personalized nutrition planning with chatbot-based interaction and Firebase-backed dynamic retrieval.
+
+Tech: Kotlin · Firebase · Dialogflow · REST APIs  
+🔗 https://github.com/amarhumayunx/BalanceBite
+
+---
+
+## 🔐 SafeCrypt – Encrypted Password Vault
+AES-256 encryption with biometric authentication and secure local storage.
+
+Tech: Flutter · Firebase · Biometric Auth  
+🔗 https://github.com/amarhumayunx/SafeCrypt
+
+---
+
+## 📿 Surah Yaseen – Smart Quran Reading App
+Ruku-wise structure, audio sync, bookmark persistence, optimized UI rendering.
+
+Tech: Flutter · Firebase · Audio Processing  
+🔗 https://github.com/amarhumayunx/Surah-Yaseen
+
+---
+
+# 📊 Engineering Standards
+
+- Null-safety enabled
+- Lint-enforced formatting
+- Modular folder structure
+- Feature-based architecture
+- Semantic versioning
+- GitHub CI workflows
+- Environment-based configurations
+
+---
+
+# 📈 Performance Benchmarks
+
+- Cold start optimization
+- Efficient rebuild cycle control
+- Optimized Firebase queries
+- Reduced network payload size
+- Smooth scrolling & rendering
+
+---
+
+# 🤝 Open Source Philosophy
+
+- Maintaining production-level repositories
+- Writing readable, scalable code
+- Building reusable mobile utilities
+- Long-term contribution goal: Flutter ecosystem tools
+
+---
+
+# 🌍 Availability
+
+✅ Open to Remote Opportunities  
+✅ Open to International Collaboration  
+✅ Available for Mobile Architecture Consulting  
+
+---
+
+# 🧠 Technical Stack
+
+### Languages
+Dart • Kotlin • Python • C++ • C#
+
+### Frameworks
+Flutter • TensorFlow • PyTorch
+
+### Backend & Cloud
+Firebase • Supabase • Google Cloud • REST APIs
+
+### Tools
+Git • GitHub Actions • Android Studio • VS Code • CI/CD
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarhumayunx&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect
+
+LinkedIn: https://linkedin.com/in/amarhumayun  
+Portfolio: https://amarhumayun.vercel.app  
+Email: amarhumayun@outlook.com  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=100&section=footer&text=Thanks+for+Visiting!+🚀&fontColor=fff&fontSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c2c2c&height=100&section=footer"/>
 </p>
