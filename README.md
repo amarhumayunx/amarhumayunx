@@ -153,7 +153,6 @@ Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C+
 # 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarhumayunx&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=amarhumayunx&theme=darcula&hide_border=false" height="170" />
 </div>
 
