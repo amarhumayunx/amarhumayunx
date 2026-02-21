@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2c2c2c&height=200&section=header&text=Muhammad%20Humayun%20Amar&fontColor=00C7B7&fontSize=35&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h3 align="center">Senior Flutter Engineer • Mobile Architect • AI-Driven Systems Developer</h3>
+<h3 align="center">Full-Stack Flutter and Mobile App Developer • FlutterFlow • Android and iOS Expert • Software Developer & Engineer • ERP Support Associate • IT Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amarhumayunx&label=Profile%20Views&color=00C7B7&style=flat" />
