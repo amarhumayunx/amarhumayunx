@@ -6,9 +6,7 @@
 <h3 align="center">Senior Flutter Engineer • Mobile Architect • AI-Driven Systems Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/amarhumayunx">
-    <img src="https://komarev.com/ghpvc/?username=amarhumayunx&label=Profile%20Views&color=00C7B7&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=amarhumayunx&label=Profile%20Views&color=00C7B7&style=flat" />
 </p>
 
 ---
@@ -17,45 +15,36 @@
 
 Mobile Application Engineer specializing in scalable, secure, and performance-optimized Flutter systems.
 
-I build production-grade applications with clean architecture, structured API communication, and cloud-integrated backend systems. My focus is not just building apps — but engineering reliable mobile products.
+I design and engineer production-grade applications using clean architecture, optimized API communication, and cloud-backed mobile infrastructures.
 
 ---
 
 # 🏗 Architecture & System Design
 
-### Architecture Principles
 - Clean Architecture (Presentation → Domain → Data)
 - MVVM / Controller-based State Management
 - Repository Pattern
 - Dependency Injection
 - Modular Feature Isolation
+- Offline-first support (where required)
 
 ### Data Flow
 UI → ViewModel → UseCase → Repository → API / Firebase → Model → UI
-
-### Engineering Mindset
-- Separation of Concerns
-- Testable Business Logic
-- Scalable Modules
-- Offline-first support (where required)
-- Event-driven updates
 
 ---
 
 # 🔐 Security Engineering Strategy
 
-Security is treated as a foundational layer.
-
-### Mobile Security
-- AES encryption implementation
+### Mobile Layer
 - Biometric authentication
 - Secure local storage
-- Token-based session handling
+- Token-based authentication
+- Encrypted data handling (where required)
 
-### Backend Security
+### Backend Layer
 - Firebase security rules
 - Role-based access control
-- HTTPS communication
+- HTTPS-only communication
 - Input validation & sanitization
 
 ---
@@ -66,9 +55,9 @@ Security is treated as a foundational layer.
 - Lazy loading & pagination
 - Firebase query optimization
 - Local caching (Hive / Secure Storage)
-- Compressed image uploads
-- Reduced APK size strategies
-- Smooth 60fps rendering where applicable
+- Image compression before upload
+- Reduced APK size optimization
+- Smooth 60fps UI rendering
 
 ---
 
@@ -82,60 +71,83 @@ Security is treated as a foundational layer.
 
 ---
 
-# 💼 Highlight Projects
+# 💼 Featured Projects
 
 ## 🥗 BalanceBite – AI-Based Nutrition System
-Personalized nutrition planning with chatbot-based interaction and Firebase-backed dynamic retrieval.
+Personalized nutrition planning with chatbot-based interaction and dynamic Firebase retrieval.  
+**Tech:** Kotlin · Firebase · Dialogflow · Android  
 
-Tech: Kotlin · Firebase · Dialogflow · REST APIs  
 🔗 https://github.com/amarhumayunx/BalanceBite
 
 ---
 
-## 🔐 SafeCrypt – Encrypted Password Vault
-AES-256 encryption with biometric authentication and secure local storage.
+## 📿 Surah Yaseen – Smart Quran Reading App
+Ruku-wise structure, audio sync, bookmark persistence, optimized rendering.  
+**Tech:** Flutter · Firebase · Audio Playback  
 
-Tech: Flutter · Firebase · Biometric Auth  
-🔗 https://github.com/amarhumayunx/SafeCrypt
+🔗 https://github.com/amarhumayunx/Surah-Yaseen
 
 ---
 
-## 📿 Surah Yaseen – Smart Quran Reading App
-Ruku-wise structure, audio sync, bookmark persistence, optimized UI rendering.
+## 🧰 Toolkit Utility App
+OCR, PDF merge/split/compress, and image-to-text processing.  
+**Tech:** Flutter · Firebase · OCR · Image Processing  
 
-Tech: Flutter · Firebase · Audio Processing  
-🔗 https://github.com/amarhumayunx/Surah-Yaseen
+🔗 https://github.com/amarhumayunx/ToolKit-flutter
+
+---
+
+## 💕 Love Connect
+Dating platform with smart matching, real-time chat, and profile customization.  
+**Tech:** Flutter · Firebase · Realtime Database · Authentication  
+
+🔗 https://github.com/amarhumayunx/Love-Connect
+
+---
+
+# 🧠 Tech Stack
+
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=dart,python,cpp,cs,kotlin,bash" />
+</td>
+<td align="center"><b>Frameworks</b><br><br>
+<img src="https://skillicons.dev/icons?i=flutter,tensorflow,pytorch" />
+</td>
+<td align="center"><b>Databases & Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,supabase,gcp,vercel" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools & IDEs</b><br><br>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,git,github,gitlab" />
+</td>
+<td align="center"><b>Design & Creative</b><br><br>
+<img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal" />
+</td>
+<td align="center"><b>Systems & Platforms</b><br><br>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple" />
+</td>
+</tr>
+</table>
+
+---
+
+# 🧰 Toolbox
+
+Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C++ · TensorFlow · PyTorch · RESTful APIs · WebSocket APIs · Hive · GitHub Actions · GetX · Google Cloud · Android Studio · VS Code · Xcode · SwiftUI · Swift
 
 ---
 
 # 📊 Engineering Standards
 
 - Null-safety enabled
-- Lint-enforced formatting
 - Modular folder structure
-- Feature-based architecture
+- Lint-enforced formatting
 - Semantic versioning
-- GitHub CI workflows
-- Environment-based configurations
-
----
-
-# 📈 Performance Benchmarks
-
-- Cold start optimization
-- Efficient rebuild cycle control
-- Optimized Firebase queries
-- Reduced network payload size
-- Smooth scrolling & rendering
-
----
-
-# 🤝 Open Source Philosophy
-
-- Maintaining production-level repositories
-- Writing readable, scalable code
-- Building reusable mobile utilities
-- Long-term contribution goal: Flutter ecosystem tools
+- CI/CD workflows
+- Feature-based isolation
 
 ---
 
@@ -147,26 +159,27 @@ Tech: Flutter · Firebase · Audio Processing
 
 ---
 
-# 🧠 Technical Stack
+# 📈 GitHub Stats
 
-### Languages
-Dart • Kotlin • Python • C++ • C#
-
-### Frameworks
-Flutter • TensorFlow • PyTorch
-
-### Backend & Cloud
-Firebase • Supabase • Google Cloud • REST APIs
-
-### Tools
-Git • GitHub Actions • Android Studio • VS Code • CI/CD
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarhumayunx&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=amarhumayunx&theme=darcula&hide_border=false" height="170" />
+</div>
 
 ---
 
-# 📈 GitHub Activity
+# 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarhumayunx&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarhumayunx&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=amarhumayunx&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
