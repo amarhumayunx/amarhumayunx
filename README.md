@@ -166,9 +166,6 @@ Flutter · Dart · Kotlin · Firebase · Supabase · FlutterFlow · Python · C+
   <!-- 4. Top Contributed Repos -->
   <img src="https://github-contributor-stats.vercel.app/api?username=amarhumayunx&limit=5&theme=ocean_dark" height="170" />
 
-  <!-- 5. Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amarhumayunx" height="170" />
-
   <!-- 6. Profile Details / Rank Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarhumayunx" height="170" />
 
